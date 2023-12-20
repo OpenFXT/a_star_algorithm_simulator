@@ -1,0 +1,5 @@
+#####CHƯƠNG TRÌNH MÔ PHỎNG QUÁ TRÌNH CHẠY THUẬT TOÁN A START TÌM ĐƯỜNG ĐI TỐI ƯU TRONG MẠNG LƯỚI ĐÔ THỊ
+1. Giới thiệu: 
+-Chương trình này mô tả cách mà thuật toán A* chạy khi tính toán đường đi tối ưu. Bài toán cụ thể xem ở trang web: https://www.iostream.vn/giai-thuat-lap-trinh/thuat-giai-a-DVnHj
+2. Cách sử dụng:
+Mở chương trình "Run-Simulation" sau đó import file chứa đồ thì và file chứa yêu cầu, chương trình sẽ thực hiện tính toán và đưa ra kết quả, có thể xem từng bước mà thuật toán thực hiện

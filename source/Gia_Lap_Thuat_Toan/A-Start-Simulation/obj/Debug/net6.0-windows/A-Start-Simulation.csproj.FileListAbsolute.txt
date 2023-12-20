@@ -1,0 +1,51 @@
+D:\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.exe
+D:\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.deps.json
+D:\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.runtimeconfig.json
+D:\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.dll
+D:\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.pdb
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.AssemblyReference.cache
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A_Start_Simulation.Simulation.resources
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.GenerateResource.cache
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.AssemblyInfoInputs.cache
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.AssemblyInfo.cs
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.CoreCompileInputs.cache
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.dll
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\refint\A-Start-Simulation.dll
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.pdb
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.genruntimeconfig.cache
+D:\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\ref\A-Start-Simulation.dll
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.exe
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.deps.json
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.runtimeconfig.json
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.dll
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.pdb
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.AssemblyReference.cache
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A_Start_Simulation.Simulation.resources
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.GenerateResource.cache
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.GeneratedMSBuildEditorConfig.editorconfig
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.AssemblyInfoInputs.cache
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.AssemblyInfo.cs
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.CoreCompileInputs.cache
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.dll
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\refint\A-Start-Simulation.dll
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.pdb
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.genruntimeconfig.cache
+H:\My Drive\Research-Space\Intelligent-Transport-System-Reasearch\Bai-Toan-Tim-Duong-Di-Ngan-Nhat\A-Start-Simulation\A-Start-Simulation\obj\Debug\net6.0-windows\ref\A-Start-Simulation.dll
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.exe
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.deps.json
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.runtimeconfig.json
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.dll
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\bin\Debug\net6.0-windows\A-Start-Simulation.pdb
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A_Start_Simulation.Simulation.resources
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.AssemblyInfo.cs
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.dll
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\refint\A-Start-Simulation.dll
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.pdb
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\A-Start-Simulation.genruntimeconfig.cache
+C:\Users\Admin\Downloads\BaoCaoNhom10\Gia_Lap_Thuat_Toan\A-Start-Simulation\obj\Debug\net6.0-windows\ref\A-Start-Simulation.dll

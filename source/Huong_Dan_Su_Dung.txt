@@ -1,0 +1,10 @@
+HƯỚNG DẪN SỬ DỤNG
+1. Chạy mục "Chay_Gia_Lap" để chạy chương trình.
+2. Bấm vào "Import graph" và chọn 1 trong 3 file đồ thị ".graph" trong thư mục "Du_Lieu_Cho_Chuong_Trinh".
+3. Bấm vào "Import request" và chọn file yêu cầu ".request" trong thư mục "Du_Lieu_Cho_Chuong_Trinh".
+4. Xem từng bước của thuật toán bằng cách tương tác với các nút "Trước", "Đến", "Sau".
+5. Bấm "Khởi động lại" để thực hiện với file đồ thị và yêu cầu khác.
+
+CẤU TRÚC FILE
+1. File .graph: Dùng để import đồ thị, dòng đầu tiên cho biết số điểm của đồ thị, những dòng tiếp theo là ma trận đồ thị vô hướng.
+2. File .request: Dùng để import yêu cầu tìm kiếm đường đi trên đồ thị đã import vào chương trình. Dòng đầu tiên là điểm bắt đầu, dòng thứ 2 làm điểm kết thúc. Dòng cuối cùng là dòng lưu trữ giá trị hàm h(x).
